@@ -1,0 +1,4 @@
+name: AutoNightVision
+version: '1.0-SNAPSHOT'
+main: com.github.nevcea.AutoNightVision
+api-version: '1.21'
